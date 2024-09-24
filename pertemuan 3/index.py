@@ -83,8 +83,6 @@ while(True):
         print(perkalian(angka1, angka2))
     elif (input_user == 4):
         print(pembagian(angka1, angka2))
-    else:
-        print()
 
     opsi = input("Mau lagi ? (y/n) : ")
 
